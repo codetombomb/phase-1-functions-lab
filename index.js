@@ -1,5 +1,4 @@
 // Code your solution in this file!
-// Code your solution in this file!
 function distanceFromHqInBlocks(distance) {
     return distance < 42 ? (42 - distance) : (distance - 42) 
 }
